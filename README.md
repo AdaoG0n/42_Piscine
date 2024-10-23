@@ -1,4 +1,4 @@
-## <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> Piscine
+# <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> • Piscine
 
 <img align="right" src="./Piscine42.png" width="400"/>
 The Piscine (French for "swimming pool") is an intensive four-week selection process at 42, designed to immerse candidates in a unique learning environment. <br/>
@@ -11,7 +11,7 @@ Overall, the Piscine serves as both a challenging introduction to programming an
 <br/>
 <br/>
 
-## Earned skills
+### Earned skills
 <p align="left">
   <a href="#" style="pointer-events: none;">
     <img src="https://skillicons.dev/icons?i=git,powershell,c,vim" />
