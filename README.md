@@ -8,3 +8,6 @@ During the Piscine, candidates work on various programming modules, primarily in
 <br/>
 <br/>
 Overall, the Piscine serves as both a challenging introduction to programming and a critical assessment of candidates' motivation and adaptability, ultimately determining who will continue their journey at 42.
+
+
+###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
