@@ -2,7 +2,7 @@
 
 <img align="right" src="./Piscine42.png" width="400"/>
 <br/>
-<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
+<img align="center" src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
 
 The Piscine (French for "swimming pool") is an intensive four-week selection process at 42, designed to immerse candidates in a unique learning environment. <br/>
 This rigorous program evaluates not only technical skills but also interpersonal abilities, as participants engage in peer-to-peer learning and collaborative projects. <br/>
