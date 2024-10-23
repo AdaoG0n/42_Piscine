@@ -1,9 +1,6 @@
-## Piscine
+## <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> Piscine
 
 <img align="right" src="./Piscine42.png" width="400"/>
-<br/>
-<img align="center" src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
-
 The Piscine (French for "swimming pool") is an intensive four-week selection process at 42, designed to immerse candidates in a unique learning environment. <br/>
 This rigorous program evaluates not only technical skills but also interpersonal abilities, as participants engage in peer-to-peer learning and collaborative projects. <br/>
 <br/>
@@ -11,6 +8,14 @@ During the Piscine, candidates work on various programming modules, primarily in
 <br/>
 <br/>
 Overall, the Piscine serves as both a challenging introduction to programming and a critical assessment of candidates' motivation and adaptability, ultimately determining who will continue their journey at 42.
+<br/>
+<br/>
 
+## Earned skills
+<p align="left">
+  <a href="#" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=git,powershell,c,vim" />
+  </a>
+</p>  
 
-###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
+###### Projeto desenvolvido por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
