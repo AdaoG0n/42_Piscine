@@ -14,7 +14,7 @@ Overall, the Piscine serves as both a challenging introduction to programming an
 ### Earned skills
 <p align="left">
   <a href="#" style="pointer-events: none;">
-    <img src="https://skillicons.dev/icons?i=git,powershell,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,powershell,vim,linux" />
   </a>
 </p>  
 
