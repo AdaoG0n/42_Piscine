@@ -13,14 +13,20 @@ Overall, the Piscine serves as both a challenging introduction to programming an
 <br/>
 <br/>
 
+---
+<div align="center">
+  
 ### Earned skills
-<p align="left">
+
   <a href="#" style="pointer-events: none;">
     <img src="https://skillicons.dev/icons?i=git,vim,powershell,c" />
   </a>
-</p>  
+</p> 
 
-## [Funcions Checklist](https://github.com/AdaoG0n/42_Piscine/blob/main/checklist_func.c)
+---
+</div>
+
+# • Functions
 
 | C00 <br/>[Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C00/pt.subject.pdf)                           | C01 <br/>[Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C01/pt.subject.pdf)                     | C02<br/> [Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C02/pt.subject.pdf)                    | C03<br/> [Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C03/pt.subject.pdf)                  | C04<br/> [Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C04/pt.subject.pdf)                | C05<br/> [Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C05/pt.subject.pdf)                     | C06 <br/>[Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C06/pt.subject.pdf)                    | C07 <br/>[Subject](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C07/pt.subject.pdf)                    |
 |-------------------------------|--------------------------|------------------------|----------------------|---------------------|---------------------------|-------------------------|-------------------------|
@@ -37,5 +43,80 @@ Overall, the Piscine serves as both a challenging introduction to programming an
 |                               |                          | [ft_strlcpy](https://github.com/AdaoG0n/42_Piscine/blob/main/C%20Projects/C02/ex10/ft_strlcpy.c)          |                      |                     |                         |                         |                         |
 
 
-###### Projeto desenvolvido por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
+---
+# • Usefull tools
+
+Norminette > [Instalation guide](https://github.com/42School/norminette)
+ 
+Mini_moulinette > [Instalation guide](https://github.com/k11q/mini-moulinette)
+
+---
+# • Exam pratice tool - [grademe](https://grademe.fr/)
+
+Grademe > [Instalation guide](https://github.com/JCluzet/42_EXAM)
+
+Command to run Grademe
+```bash
+bash -c "$(curl https://grademe.fr)"
+```
+
+---
+
+# • How to enter in exam
+⚠️ Remember to subscribe to exam and project before exam day.<br/>
+⚠️ Remember to `git push` before grademe.
+
+### Login 
+Login With The Following credentials:
+```
+login -> exam
+password -> exam
+```
+Open terminal and type:
+```
+examshell
+```
+Type your 42 Intra login:
+```
+login -> 42 username
+pasword -> your password
+```
+Photo:
+```
+Allow photo check
+```
+Accept:
+```
+Type 'y' or 'yes'
+```
+In the Exam Shell, You Have Only 3 Commands:
+```
+- status - check the time
+- grademe - send to check by moulinet
+- finish - finish exam
+```
+Subjects
+```
+- You can find your exam subject in the directory subject
+- You can see directory Rendu. It is your repository.
+- You must create a folder named by the project and start working in that folder.
+```
+
+### Submission
+
+When you are ready to sumbit your function/program, go into Rendu and push the folder you created by doing the following:
+
+```git add <folder name/files in folder>```
+
+```git status```
+
+```git commit -m "commit message"```
+
+```git push``` 
+
+After you git push, type `grademe` in the examshell for your project to be evaluated. 
+
+<br>
+
+###### Repositorio desenvolvido durante a piscine por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2F42_Piscine.json&style=flat-square&labelColor=black&color=blue)
