@@ -116,7 +116,8 @@ When you are ready to sumbit your function/program, go into Rendu and push the f
 
 After you git push, type `grademe` in the examshell to avaluate tour project/function. 
 
-<br>
+
+---
 
 ###### Repositorio desenvolvido durante a piscine por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2F42_Piscine.json&style=flat-square&labelColor=black&color=blue)
