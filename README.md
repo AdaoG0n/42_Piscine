@@ -114,7 +114,7 @@ When you are ready to sumbit your function/program, go into Rendu and push the f
 
 ```git push``` 
 
-After you git push, type `grademe` in the examshell for your project to be evaluated. 
+After you git push, type `grademe` in the examshell to avaluate tour project/function. 
 
 <br>
 
