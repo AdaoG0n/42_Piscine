@@ -12,7 +12,22 @@ During the Piscine, candidates work on various programming modules, primarily in
 Overall, the Piscine serves as both a challenging introduction to programming and a critical assessment of candidates' motivation and adaptability, ultimately determining who will continue their journey at 42.
 <br/>
 <br/>
-
+<details>
+<summary> Piscine status </summary>
+  
+| Project                                                                            | Score | 
+| ---                                                                                | ---   |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/Shell/shell00">Shell00</a>   | <img src="https://img.shields.io/badge/60%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/Shell/shell01">Shell01</a>   | <img src="https://img.shields.io/badge/55%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C00">C00</a>   | <img src="https://img.shields.io/badge/85%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C01">C01</a>   | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | 
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C00">C02</a>   | <img src="https://img.shields.io/badge/75%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C01">C03</a>   | <img src="https://img.shields.io/badge/75%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C00">C04</a>   | <img src="https://img.shields.io/badge/70%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C01">C05</a>   | <img src="https://img.shields.io/badge/80%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C00">C06</a>   | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C01">C07</a>   | <img src="https://img.shields.io/badge/60%20%2F%20100%20%E2%98%85-success" /> |
+</details
 ---
 <div align="center">
   
