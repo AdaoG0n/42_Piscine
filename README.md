@@ -127,7 +127,7 @@ When you are ready to sumbit your function/program, go into Rendu and push the f
 
 ```git push``` 
 
-After you git push, type `grademe` in the examshell to avaluate tour project/function. 
+After you git push, type `grademe` in the examshell to avaluate your project/function. 
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
 ###### Repositorio desenvolvido durante a piscine por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
